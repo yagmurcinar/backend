@@ -4115,11 +4115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user4\\Desktop\\udemyproject\\UdemyProject\\UdemyProject.csproj",
+      "projectUniqueName": "C:\\Users\\user4\\Documents\\UdemyProject\\UdemyProject_backend\\UdemyProject.csproj",
       "projectName": "UdemyProject",
-      "projectPath": "C:\\Users\\user4\\Desktop\\udemyproject\\UdemyProject\\UdemyProject.csproj",
+      "projectPath": "C:\\Users\\user4\\Documents\\UdemyProject\\UdemyProject_backend\\UdemyProject.csproj",
       "packagesPath": "C:\\Users\\user4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user4\\Desktop\\udemyproject\\UdemyProject\\obj\\",
+      "outputPath": "C:\\Users\\user4\\Documents\\UdemyProject\\UdemyProject_backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user4\\AppData\\Roaming\\NuGet\\NuGet.Config",
